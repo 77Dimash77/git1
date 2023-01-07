@@ -1,0 +1,22 @@
+# Файл
+## Заголовок 2
+
+**git --version - узнаем версию гита**
+
+>git config --global user.email mwasikzano@gmail.com - укажем посту
+
+>>git config --global user.name Dimash - имя пользавотеля
+
+git config --list - Показать все настройки
+
+git config user.name - проверка имени
+
+q - выйти
+
+git init - подселение жучка (репазиторий) для отслеживания
+
+git status - информация по файлаи
+
+git add ..... - отслеживание конкретного файла
+
+git commit -m "добавили файл" - сохранили add  принять изменения
