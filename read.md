@@ -3,9 +3,9 @@
 
 **git --version - узнаем версию гита**
 
->git config --global user.email mwasikzano@gmail.com - укажем посту
-
->>git config --global user.name Dimash - имя пользавотеля
+>git config --global user.email mwasikzano@gmail.com
+cl
+>>git config --global user.name Dimash
 
 git config --list - Показать все настройки
 
@@ -20,3 +20,7 @@ git status - информация по файлаи
 git add ..... - отслеживание конкретного файла
 
 git commit -m "добавили файл" - сохранили add  принять изменения
+
+Потом сохранить файл
+
+git log - просмотр того что сделалт
